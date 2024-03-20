@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nexadis)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nexadis&show_icons=true&theme=tokyonight)
+
 <!--
 **Nexadis/Nexadis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

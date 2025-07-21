@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nexadis)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nexadis&show_icons=true&theme=tokyonight)
 ![Nexadis LeetCode stats light](https://leetcode-badge-sage.vercel.app/badge/nexadis?bgColor=fff)
 
